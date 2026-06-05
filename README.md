@@ -50,4 +50,4 @@ Theory is only consolidated through practice. Below are the platforms I use to s
 - [ ] Build a custom port-scanner script using Python.
 
 ---
-📬 **Connect with me:** [Your LinkedIn](https://www.linkedin.com/in/khevin-ramos-8266a2413) | [Your Email](your.email@example.com)
+📬 **Connect with me:** [My LinkedIn](https://www.linkedin.com/in/khevin-ramos-8266a2413) | [My Email](your.email@example.com)
