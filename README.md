@@ -33,7 +33,8 @@ Here are the tools and operating systems I actively use and practice with in my 
 Theory is only consolidated through practice. Below are the platforms I use to solve CTF challenges and real-world scenarios:
 
 ### 🥊 TryHackMe
-* **Profile:** [Insert your TryHackMe profile link here]
+* **Profile:** [TryHackMe Profile](https://tryhackme.com/p/khevinramos24)
+
 * **Completed Rooms / Focus:** Introduction to Cyber Security, Network Fundamentals, and Linux Fundamentals.
 
 ### 🎯 HackTheBox
