@@ -38,7 +38,8 @@ Theory is only consolidated through practice. Below are the platforms I use to s
 * **Completed Rooms / Focus:** Introduction to Cyber Security, Network Fundamentals, and Linux Fundamentals.
 
 ### 🎯 HackTheBox
-* **Profile:** [Insert your HackTheBox profile link here]
+* **Profile:** [profile.hackthebox.com](https://reference-url-citation.invalid/0)
+
 * **Focus:** Solving *Starting Point* machines to master enumeration and initial exploitation processes.
 
 ---
